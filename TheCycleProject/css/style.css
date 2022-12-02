@@ -162,8 +162,8 @@ transition: all 0.5s;
   
   position: absolute;
   top: 10%;
-  left: 42%;
-  width: 13.5%;
+  left: 43.5%;
+  width: 10%;
   height: auto;
   align-content: center;
   
@@ -173,8 +173,8 @@ transition: all 0.5s;
   
   position: absolute;
   top: 17%;
-  left: 28%;
-  width: 13.5%;
+  left: 32.5%;
+  width: 10%;
   height: auto;
   align-content: center;
   
@@ -184,8 +184,8 @@ transition: all 0.5s;
   
   position: absolute;
   top: 17%;
-  left: 56%;
-  width: 13.5%;
+  left: 54.5%;
+  width: 10%;
   height: auto;
   align-content: center;
   
@@ -390,7 +390,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 25rem;
 }
 
 .sectionTexto {
@@ -399,7 +399,7 @@ section.ok {
 }
 
 .sectionImg {
-  margin-left:300px;
+  margin-left:25rem;
   position: relative;
   top:5%;
 }
@@ -419,7 +419,7 @@ section.ok {
 }
 
 .sectionImg-vidro {
-  margin-left:300px;
+  margin-left:25rem;
   position: relative;
   top:5%;
 }
@@ -453,7 +453,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 23rem;
 }
 
 /*Alumínio*/
@@ -494,12 +494,12 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 25rem;
 }
 
 
 .sectionImg-aluminio {
-  margin-left:300px;
+  margin-left:25rem;
   position: relative;
   top:0%;
 }
@@ -542,7 +542,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 25rem;
 }
 
 /*Organico*/
@@ -583,13 +583,13 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 25rem;
 }
 
 .sectionImg-organico {
-  margin-left:300px;
+  margin-left:25rem;
   position: relative;
-  top:50%;
+  top:10%;
 }
 
 
@@ -631,13 +631,13 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 350px;
+  margin-right: 25rem;
 }
 
-.sectionImg-organico {
-  margin-left:300px;
+.sectionImg-eletronico {
+  margin-left:25rem;
   position: relative;
-  top:50%;
+  top:10%
 }
 
 
@@ -654,7 +654,7 @@ section.ok {
 
 #MainContainerSobre .ContainerSobreImg {
  position: absolute;
- padding-right: 100px;
+ left: 20%;
  top: 30%;
 }
 
@@ -785,7 +785,7 @@ section.ok {
   position: relative;
   width: auto;
   height: 60%;
-  left:80%;
+  left:150%;
   top:20%;
 }
 
@@ -1039,3 +1039,4 @@ br {
       transform: scale(1);
   }
 }
+
