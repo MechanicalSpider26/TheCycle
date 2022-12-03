@@ -85,8 +85,9 @@ transition: all 0.5s;
 #spacer4,
 #spacer5,
 #spacer6,
-#spacer7 {
-  height: 300px;
+#spacer7,
+#spacer8 {
+  height: 26vh;
   width: auto;
   background-color: inherit;
 }
@@ -379,8 +380,8 @@ section.ok {
 /*Plástico*/
 
 #sectionPlastico {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 40vh;
   position: relative;
   
 }
@@ -435,7 +436,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
   
  
 }
@@ -462,8 +463,8 @@ section.ok {
 /*Vidro*/
 
 #sectionVidro {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 25vh;
   position: relative;
   
 }
@@ -503,14 +504,14 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
 }
 
 /*Alumínio*/
 
 #sectionAluminio {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 25vh;
   position: relative;
   
 }
@@ -544,7 +545,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
 }
 
 
@@ -557,8 +558,8 @@ section.ok {
 /*Papel*/
 
 #sectionPapel {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 25vh;
   position: relative;
   
 }
@@ -592,14 +593,14 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
 }
 
 /*Organico*/
 
 #sectionOrganico {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 25vh;
   position: relative;
   
 }
@@ -632,7 +633,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
 }
 
 .sectionImg-organico {
@@ -645,8 +646,8 @@ section.ok {
 /* Eletrônico */
 
 #sectionEletronico {
-  height: 750px;
-  width: auto;
+  height: 60vh;
+  min-height: 25vh;
   position: relative;
   
 }
@@ -680,7 +681,7 @@ section.ok {
   text-align: justify;
   font-family: Arial;
   font-size: 16px;
-  margin-right: 15vw;
+  margin-right: 20vw;
 }
 
 #sectionEletronico .sectionImg-eletronico {
@@ -1127,6 +1128,3 @@ br {
   }
   
 }
-
-
-
