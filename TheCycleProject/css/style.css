@@ -87,7 +87,7 @@ transition: all 0.5s;
 #spacer6,
 #spacer7,
 #spacer8 {
-  height: 26vh;
+  height: 20vh;
   width: auto;
   background-color: inherit;
 }
@@ -380,7 +380,7 @@ section.ok {
 /*Plástico*/
 
 #sectionPlastico {
-  height: 60vh;
+  height: 75vh;
   min-height: 40vh;
   position: relative;
   
@@ -413,21 +413,21 @@ section.ok {
   text-transform: uppercase;
   font-weight: bold;
   padding-bottom: 15px;
-  font-size: 0.7vw;
+  font-size: 0.8vw;
 }
 
 .reciclagem {
   text-transform: uppercase;
   font-weight: bold;
   padding-bottom: 15px;
-  font-size: 0.7vw;
+  font-size: 0.8vw;
 }
 
 .problema {
   text-transform: uppercase;
   font-weight: bold;
   padding-bottom: 15px;
-  font-size: 0.7vw;
+  font-size: 0.8vw;
 }
 
 #sectionPlastico .sectionText {
@@ -435,7 +435,7 @@ section.ok {
   height: 500px;
   text-align: justify;
   font-family: Arial;
-  font-size: 16px;
+  font-size: 26px;
   margin-right: 20vw;
   
  
@@ -444,7 +444,7 @@ section.ok {
 .sectionTexto {
   font-family: Arial;
   padding-bottom: 15px;
-  font-size: 0.7vw;
+  font-size: 0.8vw;
 }
 
 .sectionImg {
@@ -456,14 +456,14 @@ section.ok {
 .grid-img {
   
   height: auto;
-  max-width: 20vw;
-  min-width: 18vw;
+  max-width: 27vw;
+  min-width: 22vw;
 }
 
 /*Vidro*/
 
 #sectionVidro {
-  height: 60vh;
+  height: 75vh;
   min-height: 25vh;
   position: relative;
   
@@ -510,7 +510,7 @@ section.ok {
 /*Alumínio*/
 
 #sectionAluminio {
-  height: 60vh;
+  height: 75vh;
   min-height: 25vh;
   position: relative;
   
@@ -546,6 +546,7 @@ section.ok {
   font-family: Arial;
   font-size: 16px;
   margin-right: 20vw;
+  margin-top: 60px;
 }
 
 
@@ -558,7 +559,7 @@ section.ok {
 /*Papel*/
 
 #sectionPapel {
-  height: 60vh;
+  height: 75vh;
   min-height: 25vh;
   position: relative;
   
@@ -594,12 +595,13 @@ section.ok {
   font-family: Arial;
   font-size: 16px;
   margin-right: 20vw;
+  margin-top: 30px;
 }
 
 /*Organico*/
 
 #sectionOrganico {
-  height: 60vh;
+  height: 75vh;
   min-height: 25vh;
   position: relative;
   
@@ -646,7 +648,7 @@ section.ok {
 /* Eletrônico */
 
 #sectionEletronico {
-  height: 60vh;
+  height: 75vh;
   min-height: 25vh;
   position: relative;
   
