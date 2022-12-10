@@ -747,11 +747,11 @@ section.ok {
   text-align: justify;
   position: absolute;
   font-family: Arial;
-  font-size: 0.75vw;
+  font-size: 2vh;
   color: var(--primary-background-color);
-  width:25vw;
-  height: 30vh;
-  top:40%;
+  width:26vw;
+  height: 40vh;
+  top:33%;
   left:55%
 }
 
@@ -837,8 +837,6 @@ section.ok {
 .ProfileImg {
   position: relative;
   border-radius: 50%;
-  
-  
 }
 
 /* Download */
