@@ -807,6 +807,7 @@ section.ok {
   border-radius: 50%;
   position: relative;
   z-index: -1;
+  font-size: 1vw;
 }
 
 .TítuloNos {
@@ -870,7 +871,7 @@ section.ok {
   font-family: Arial;
   font-size: 0.75vw;
   color: var(--light-color);
-  width:17vw;
+  width:13vw;
   height: 30vh;
   left:55%; 
   top: 20%;
