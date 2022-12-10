@@ -861,7 +861,7 @@ section.ok {
   position: relative;
   width: auto;
   height: 60%;
-  left:65%;
+  left:50%;
   top:20%;
 }
 
@@ -869,11 +869,12 @@ section.ok {
   text-align: justify;
   position: absolute;
   font-family: Arial;
-  font-size: 0.75vw;
+  font-stretch: wider;
+  font-size: 2.1vh;
   color: var(--light-color);
-  width:13vw;
-  height: 30vh;
-  left:55%; 
+  width:25vw;
+  height: 40vh;
+  left:60%; 
   top: 20%;
 }
 
